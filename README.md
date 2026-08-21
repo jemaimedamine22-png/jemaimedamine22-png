@@ -17,7 +17,13 @@ An enthusiastic **Software Developer** with a strong focus on **Backend Architec
 **Languages & Frameworks:**
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Databases & Caching:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -39,14 +45,6 @@ An enthusiastic **Software Developer** with a strong focus on **Backend Architec
 - 🛠️ Building high-availability backend services with **Laravel & PostgreSQL**.
 - ⚙️ Designing automated **CI/CD & DevSecOps Pipelines** using GitHub Actions.
 - 📦 Containerizing applications and orchestrating deployments with **Docker, Kubernetes & Helm**.
-
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jemaimedamine22-png&show_icons=true&theme=tokyonight" alt="Amine's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jemaimedamine22-png&layout=compact&theme=tokyonight" alt="Top Languages" width="48%" />
-</p>
 
 ---
 
